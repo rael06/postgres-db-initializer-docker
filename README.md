@@ -1,3 +1,5 @@
+# postgres-db-initializer-docker
+
 In order to initialize the db, please follow this steps:
 
 - place the folder `initdb` into your application folder at root level
@@ -13,5 +15,3 @@ In order to initialize the db, please follow this steps:
 - wait a minute during the initialization of the db
 
 You're done!
-# postgres-db-initializer-docker
-# postgres-db-initializer-docker
